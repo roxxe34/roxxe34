@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Python Code to check my AWS practise exams answers and correct them and give file score
 i = 1
 resultat = 0
 incorrect = []
